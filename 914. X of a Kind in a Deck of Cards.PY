@@ -7,6 +7,6 @@ class Solution:
             
         n= 0
         for val in freq.values():
-             n = math.gcd(n,val)
-        return n >= 2        
+            n = math.gcd(n,val)
+        return n >= 2
         
