@@ -41,3 +41,15 @@ This repository tracks the progress of learning, practicing, and improving probl
 ## Goal
 
 Keep solving. Learn from mistakes. Improve with every problem.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
+<!---LeetCode Topics End-->
