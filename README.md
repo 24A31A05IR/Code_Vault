@@ -55,6 +55,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Array
 |  |
 | ------- |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
