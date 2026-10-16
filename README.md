@@ -59,6 +59,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Array
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -70,11 +71,13 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Sorting
 |  |
 | ------- |
+| [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Counting
@@ -83,4 +86,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
