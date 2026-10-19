@@ -60,6 +60,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -73,6 +74,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -86,6 +88,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Binary Search
@@ -93,4 +96,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
