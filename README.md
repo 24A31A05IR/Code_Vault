@@ -56,6 +56,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/24A31A05IR/Code_Vault/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/24A31A05IR/Code_Vault/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 ## Array
 |  |
 | ------- |
