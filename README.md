@@ -48,6 +48,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
+| [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/24A31A05IR/Code_Vault/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
 | ------- |
