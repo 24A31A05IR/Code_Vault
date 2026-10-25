@@ -67,6 +67,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3452-sum-of-good-numbers](https://github.com/24A31A05IR/Code_Vault/tree/master/3452-sum-of-good-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
