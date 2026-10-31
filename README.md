@@ -54,6 +54,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/24A31A05IR/Code_Vault/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/24A31A05IR/Code_Vault/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -94,6 +95,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/24A31A05IR/Code_Vault/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Binary Search
