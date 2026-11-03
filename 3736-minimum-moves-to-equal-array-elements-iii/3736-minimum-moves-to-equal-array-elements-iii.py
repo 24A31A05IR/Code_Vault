@@ -4,4 +4,4 @@ class Solution:
         mx=max(nums)
         for val in nums:
           counnt=counnt+(mx-val)
-        return counnt  
+        return counnt
