@@ -47,12 +47,14 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/24A31A05IR/Code_Vault/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/24A31A05IR/Code_Vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/24A31A05IR/Code_Vault/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/24A31A05IR/Code_Vault/tree/master/1704-determine-if-string-halves-are-alike) |
