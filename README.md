@@ -77,6 +77,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/24A31A05IR/Code_Vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/24A31A05IR/Code_Vault/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/24A31A05IR/Code_Vault/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,4 +126,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
