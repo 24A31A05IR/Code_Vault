@@ -62,6 +62,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/24A31A05IR/Code_Vault/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Greedy
 |  |
 | ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -130,4 +132,12 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
