@@ -67,6 +67,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/24A31A05IR/Code_Vault/tree/master/0605-can-place-flowers) |
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/24A31A05IR/Code_Vault/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -82,6 +83,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/24A31A05IR/Code_Vault/tree/master/0605-can-place-flowers) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
