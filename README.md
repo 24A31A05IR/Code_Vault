@@ -152,4 +152,20 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/24A31A05IR/Code_Vault/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/24A31A05IR/Code_Vault/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/24A31A05IR/Code_Vault/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/24A31A05IR/Code_Vault/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/24A31A05IR/Code_Vault/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
