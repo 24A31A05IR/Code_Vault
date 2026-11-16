@@ -62,6 +62,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/24A31A05IR/Code_Vault/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 ## Array
@@ -135,6 +136,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
 ## Enumeration
 |  |
