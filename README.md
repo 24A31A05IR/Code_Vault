@@ -76,6 +76,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/24A31A05IR/Code_Vault/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/24A31A05IR/Code_Vault/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/24A31A05IR/Code_Vault/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -174,4 +175,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/24A31A05IR/Code_Vault/tree/master/0938-range-sum-of-bst) |
+## Matrix
+|  |
+| ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/24A31A05IR/Code_Vault/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
