@@ -72,6 +72,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/24A31A05IR/Code_Vault/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1534-count-good-triplets](https://github.com/24A31A05IR/Code_Vault/tree/master/1534-count-good-triplets) |
 | [2032-two-out-of-three](https://github.com/24A31A05IR/Code_Vault/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/24A31A05IR/Code_Vault/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/24A31A05IR/Code_Vault/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -142,6 +143,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/24A31A05IR/Code_Vault/tree/master/1534-count-good-triplets) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/24A31A05IR/Code_Vault/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Backtracking
 |  |
