@@ -65,6 +65,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/24A31A05IR/Code_Vault/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
 | ------- |
