@@ -49,6 +49,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/24A31A05IR/Code_Vault/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/24A31A05IR/Code_Vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -108,6 +109,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/24A31A05IR/Code_Vault/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/24A31A05IR/Code_Vault/tree/master/0888-fair-candy-swap) |
 | [2032-two-out-of-three](https://github.com/24A31A05IR/Code_Vault/tree/master/2032-two-out-of-three) |
@@ -137,6 +139,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/24A31A05IR/Code_Vault/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
 ## Simulation
@@ -185,4 +188,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [2373-largest-local-values-in-a-matrix](https://github.com/24A31A05IR/Code_Vault/tree/master/2373-largest-local-values-in-a-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
