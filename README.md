@@ -85,6 +85,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/24A31A05IR/Code_Vault/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/24A31A05IR/Code_Vault/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/24A31A05IR/Code_Vault/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/24A31A05IR/Code_Vault/tree/master/3452-sum-of-good-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/24A31A05IR/Code_Vault/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -192,4 +193,8 @@ Keep solving. Learn from mistakes. Improve with every problem.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/24A31A05IR/Code_Vault/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
