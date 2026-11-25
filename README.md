@@ -85,6 +85,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/24A31A05IR/Code_Vault/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/24A31A05IR/Code_Vault/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/24A31A05IR/Code_Vault/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/24A31A05IR/Code_Vault/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/24A31A05IR/Code_Vault/tree/master/3452-sum-of-good-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/24A31A05IR/Code_Vault/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -137,6 +138,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/24A31A05IR/Code_Vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/24A31A05IR/Code_Vault/tree/master/2032-two-out-of-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/24A31A05IR/Code_Vault/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
