@@ -51,6 +51,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | [0171-excel-sheet-column-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/24A31A05IR/Code_Vault/tree/master/0202-happy-number) |
 | [2409-count-days-spent-together](https://github.com/24A31A05IR/Code_Vault/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/24A31A05IR/Code_Vault/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/24A31A05IR/Code_Vault/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -150,6 +151,7 @@ Keep solving. Learn from mistakes. Improve with every problem.
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/24A31A05IR/Code_Vault/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/24A31A05IR/Code_Vault/tree/master/2562-find-the-array-concatenation-value) |
+| [3360-stone-removal-game](https://github.com/24A31A05IR/Code_Vault/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
